@@ -1,5 +1,3 @@
-# Graphic-Arena
-一个竞技场
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
