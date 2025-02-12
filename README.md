@@ -70,7 +70,6 @@
             <li><strong>特点</strong>：升阶后，旋风骑士的生命值和攻击力大幅提升，新增“旋风斩”技能，能够对多个敌人造成大量伤害。同时，它还具备“治疗之环”技能，可以为队友恢复生命值。</li>
             <li><strong>表情包形容</strong>：🌀 强力的旋风斩！</li>
         </ul>
-
         <strong>2. 三角形 (Triangle)</strong>
         <p><strong>基础形态</strong></p>
         <ul>
