@@ -116,7 +116,7 @@
         <p><strong>进阶形态：暗影刺客 (AssassinStar)</strong></p>
         <ul>
             <li><strong>特点</strong>：暗影刺客的攻击力进一步提升，并且能够发动“致命一击”技能，对敌人造成双倍伤害。此外，暗影刺客还拥有“毒刃攻击”技能，可以在攻击时附加中毒效果。</li>
-            <li><strong>表情包形容</strong>：🌟 致命的暗影一击！</li>
+            <li><strong>表情包形容</strong>：暗影刺客！🌟 致命的暗影一击！</li>
         </ul>
     </div>
 </section>
