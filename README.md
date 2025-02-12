@@ -68,7 +68,7 @@
         <p><strong>进阶形态：旋风骑士 (WhirlwindKnight)</strong></p>
         <ul>
             <li><strong>特点</strong>：升阶后，旋风骑士的生命值和攻击力大幅提升，新增“旋风斩”技能，能够对多个敌人造成大量伤害。同时，它还具备“治疗之环”技能，可以为队友恢复生命值。</li>
-            <li><strong>表情包形容</strong>：🌀 强力的旋风斩！</li>
+            <li><strong>表情包形容</strong>：旋风骑士！🌀 强力的旋风斩！</li>
         </ul>
         <strong>2. 三角形 (Triangle)</strong>
         <p><strong>基础形态</strong></p>
@@ -80,9 +80,8 @@
         <p><strong>进阶形态：烈焰战刃 (FlameBlade)</strong></p>
         <ul>
             <li><strong>特点</strong>：烈焰战刃的攻击力进一步提升，并且能够发动“火焰风暴”技能，对范围内的敌人造成毁灭性打击。此外，烈焰战刃还拥有“火焰护盾”技能，可以为自己提供额外的生命回复。</li>
-            <li><strong>表情包形容</strong>：🔥 燃烧的烈焰之刃！</li>
+            <li><strong>表情包形容</strong>：烈焰战刃！🔥 燃烧的烈焰之刃！</li>
         </ul>
-
         <strong>3. 方形 (Square)</strong>
         <p><strong>基础形态</strong></p>
         <ul>
@@ -93,9 +92,8 @@
         <p><strong>进阶形态：钢铁堡垒 (SteelFortress)</strong></p>
         <ul>
             <li><strong>特点</strong>：钢铁堡垒的生命值进一步提升，并且拥有更强的防御能力。它的特殊能力“钢铁结构”可以为自身回复更多生命值，同时还能使用“钢铁壁垒”技能，大幅强化自身的防御力。</li>
-            <li><strong>表情包形容</strong>：🛡️ 坚不可摧的堡垒！</li>
+            <li><strong>表情包形容</strong>：钢铁壁垒！🛡️ 坚不可摧的堡垒！</li>
         </ul>
-
         <strong>4. 六边形 (Hexagon)</strong>
         <p><strong>基础形态</strong></p>
         <ul>
@@ -106,9 +104,8 @@
         <p><strong>进阶形态：水晶法师 (CrystalMage)</strong></p>
         <ul>
             <li><strong>特点</strong>：水晶法师的攻击力大幅提升，并且能够发动“水晶冲击”技能，对敌人造成高额伤害。此外，水晶法师还拥有“水晶传送”技能，可以瞬间移动到战场上的任意位置。</li>
-            <li><strong>表情包形容</strong>：🔮 神秘的水晶魔法！</li>
+            <li><strong>表情包形容</strong>：水晶法师！🔮 神秘的水晶魔法！</li>
         </ul>
-
         <strong>5. 星形 (Star)</strong>
         <p><strong>基础形态</strong></p>
         <ul>
